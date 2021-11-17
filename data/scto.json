@@ -1,0 +1,3618 @@
+{
+  "graphs": {
+    "nodes": [
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000001",
+        "type": "CLASS",
+        "lbl": "BFO_0000001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000002",
+        "type": "CLASS",
+        "lbl": "BFO_0000002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000003",
+        "type": "CLASS",
+        "lbl": "BFO_0000003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000004",
+        "type": "CLASS",
+        "lbl": "BFO_0000004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000006",
+        "type": "CLASS",
+        "lbl": "BFO_0000006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000008",
+        "type": "CLASS",
+        "lbl": "BFO_0000008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000009",
+        "type": "CLASS",
+        "lbl": "BFO_0000009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000011",
+        "type": "CLASS",
+        "lbl": "BFO_0000011"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000015",
+        "type": "CLASS",
+        "lbl": "BFO_0000015"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000016",
+        "type": "CLASS",
+        "lbl": "BFO_0000016"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000017",
+        "type": "CLASS",
+        "lbl": "BFO_0000017"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000018",
+        "type": "CLASS",
+        "lbl": "BFO_0000018"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000019",
+        "type": "CLASS",
+        "lbl": "BFO_0000019"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000020",
+        "type": "CLASS",
+        "lbl": "BFO_0000020"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000023",
+        "type": "CLASS",
+        "lbl": "BFO_0000023"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000024",
+        "type": "CLASS",
+        "lbl": "BFO_0000024"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000026",
+        "type": "CLASS",
+        "lbl": "BFO_0000026"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000027",
+        "type": "CLASS",
+        "lbl": "BFO_0000027"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000028",
+        "type": "CLASS",
+        "lbl": "BFO_0000028"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000029",
+        "type": "CLASS",
+        "lbl": "BFO_0000029"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000030",
+        "type": "CLASS",
+        "lbl": "BFO_0000030"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000031",
+        "type": "CLASS",
+        "lbl": "BFO_0000031"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000034",
+        "type": "CLASS",
+        "lbl": "BFO_0000034"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000035",
+        "type": "CLASS",
+        "lbl": "BFO_0000035"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000038",
+        "type": "CLASS",
+        "lbl": "BFO_0000038"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000040",
+        "type": "CLASS",
+        "lbl": "BFO_0000040"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000140",
+        "type": "CLASS",
+        "lbl": "BFO_0000140"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000141",
+        "type": "CLASS",
+        "lbl": "BFO_0000141"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000142",
+        "type": "CLASS",
+        "lbl": "BFO_0000142"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000144",
+        "type": "CLASS",
+        "lbl": "BFO_0000144"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000145",
+        "type": "CLASS",
+        "lbl": "BFO_0000145"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000146",
+        "type": "CLASS",
+        "lbl": "BFO_0000146"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000147",
+        "type": "CLASS",
+        "lbl": "BFO_0000147"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000148",
+        "type": "CLASS",
+        "lbl": "BFO_0000148"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/BFO_0000182",
+        "type": "CLASS",
+        "lbl": "BFO_0000182"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000027",
+        "type": "CLASS",
+        "lbl": "IAO_0000027"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000030",
+        "type": "CLASS",
+        "lbl": "IAO_0000030"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000033",
+        "type": "CLASS",
+        "lbl": "IAO_0000033"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000078",
+        "type": "CLASS",
+        "lbl": "IAO_0000078"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000102",
+        "type": "CLASS",
+        "lbl": "IAO_0000102"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000225",
+        "type": "CLASS",
+        "lbl": "IAO_0000225"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000409",
+        "type": "CLASS",
+        "lbl": "IAO_0000409"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OBI_0000011",
+        "type": "CLASS",
+        "lbl": "OBI_0000011"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000014",
+        "type": "CLASS",
+        "lbl": "OGMS_0000014"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000015",
+        "type": "CLASS",
+        "lbl": "OGMS_0000015"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000016",
+        "type": "CLASS",
+        "lbl": "OGMS_0000016"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000017",
+        "type": "CLASS",
+        "lbl": "OGMS_0000017"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000018",
+        "type": "CLASS",
+        "lbl": "OGMS_0000018"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000019",
+        "type": "CLASS",
+        "lbl": "OGMS_0000019"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000020",
+        "type": "CLASS",
+        "lbl": "OGMS_0000020"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000022",
+        "type": "CLASS",
+        "lbl": "OGMS_0000022"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000023",
+        "type": "CLASS",
+        "lbl": "OGMS_0000023"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000024",
+        "type": "CLASS",
+        "lbl": "OGMS_0000024"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000025",
+        "type": "CLASS",
+        "lbl": "OGMS_0000025"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000026",
+        "type": "CLASS",
+        "lbl": "OGMS_0000026"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000027",
+        "type": "CLASS",
+        "lbl": "OGMS_0000027"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000028",
+        "type": "CLASS",
+        "lbl": "OGMS_0000028"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000029",
+        "type": "CLASS",
+        "lbl": "OGMS_0000029"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000030",
+        "type": "CLASS",
+        "lbl": "OGMS_0000030"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000031",
+        "type": "CLASS",
+        "lbl": "OGMS_0000031"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000032",
+        "type": "CLASS",
+        "lbl": "OGMS_0000032"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000033",
+        "type": "CLASS",
+        "lbl": "OGMS_0000033"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000034",
+        "type": "CLASS",
+        "lbl": "OGMS_0000034"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000035",
+        "type": "CLASS",
+        "lbl": "OGMS_0000035"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000037",
+        "type": "CLASS",
+        "lbl": "OGMS_0000037"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000038",
+        "type": "CLASS",
+        "lbl": "OGMS_0000038"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000039",
+        "type": "CLASS",
+        "lbl": "OGMS_0000039"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000040",
+        "type": "CLASS",
+        "lbl": "OGMS_0000040"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000045",
+        "type": "CLASS",
+        "lbl": "OGMS_0000045"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000046",
+        "type": "CLASS",
+        "lbl": "OGMS_0000046"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000047",
+        "type": "CLASS",
+        "lbl": "OGMS_0000047"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000050",
+        "type": "CLASS",
+        "lbl": "OGMS_0000050"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000051",
+        "type": "CLASS",
+        "lbl": "OGMS_0000051"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000055",
+        "type": "CLASS",
+        "lbl": "OGMS_0000055"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000056",
+        "type": "CLASS",
+        "lbl": "OGMS_0000056"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000057",
+        "type": "CLASS",
+        "lbl": "OGMS_0000057"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000059",
+        "type": "CLASS",
+        "lbl": "OGMS_0000059"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000060",
+        "type": "CLASS",
+        "lbl": "OGMS_0000060"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000061",
+        "type": "CLASS",
+        "lbl": "OGMS_0000061"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000063",
+        "type": "CLASS",
+        "lbl": "OGMS_0000063"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000064",
+        "type": "CLASS",
+        "lbl": "OGMS_0000064"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000065",
+        "type": "CLASS",
+        "lbl": "OGMS_0000065"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000066",
+        "type": "CLASS",
+        "lbl": "OGMS_0000066"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000073",
+        "type": "CLASS",
+        "lbl": "OGMS_0000073"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000074",
+        "type": "CLASS",
+        "lbl": "OGMS_0000074"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000077",
+        "type": "CLASS",
+        "lbl": "OGMS_0000077"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000078",
+        "type": "CLASS",
+        "lbl": "OGMS_0000078"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000079",
+        "type": "CLASS",
+        "lbl": "OGMS_0000079"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000080",
+        "type": "CLASS",
+        "lbl": "OGMS_0000080"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000081",
+        "type": "CLASS",
+        "lbl": "OGMS_0000081"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000082",
+        "type": "CLASS",
+        "lbl": "OGMS_0000082"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000083",
+        "type": "CLASS",
+        "lbl": "OGMS_0000083"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000084",
+        "type": "CLASS",
+        "lbl": "OGMS_0000084"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000085",
+        "type": "CLASS",
+        "lbl": "OGMS_0000085"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000086",
+        "type": "CLASS",
+        "lbl": "OGMS_0000086"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000087",
+        "type": "CLASS",
+        "lbl": "OGMS_0000087"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000088",
+        "type": "CLASS",
+        "lbl": "OGMS_0000088"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000089",
+        "type": "CLASS",
+        "lbl": "OGMS_0000089"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000090",
+        "type": "CLASS",
+        "lbl": "OGMS_0000090"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000091",
+        "type": "CLASS",
+        "lbl": "OGMS_0000091"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000092",
+        "type": "CLASS",
+        "lbl": "OGMS_0000092"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000093",
+        "type": "CLASS",
+        "lbl": "OGMS_0000093"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000094",
+        "type": "CLASS",
+        "lbl": "OGMS_0000094"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000095",
+        "type": "CLASS",
+        "lbl": "OGMS_0000095"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000096",
+        "type": "CLASS",
+        "lbl": "OGMS_0000096"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000097",
+        "type": "CLASS",
+        "lbl": "OGMS_0000097"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000098",
+        "type": "CLASS",
+        "lbl": "OGMS_0000098"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000099",
+        "type": "CLASS",
+        "lbl": "OGMS_0000099"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000100",
+        "type": "CLASS",
+        "lbl": "OGMS_0000100"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000101",
+        "type": "CLASS",
+        "lbl": "OGMS_0000101"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000102",
+        "type": "CLASS",
+        "lbl": "OGMS_0000102"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000103",
+        "type": "CLASS",
+        "lbl": "OGMS_0000103"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000104",
+        "type": "CLASS",
+        "lbl": "OGMS_0000104"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000105",
+        "type": "CLASS",
+        "lbl": "OGMS_0000105"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/OGMS_0000106",
+        "type": "CLASS",
+        "lbl": "OGMS_0000106"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000000",
+        "type": "CLASS",
+        "lbl": "SCTO_00000000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "type": "CLASS",
+        "lbl": "SCTO_00000001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002",
+        "type": "CLASS",
+        "lbl": "SCTO_00000002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_103379005",
+        "type": "CLASS",
+        "lbl": "SCTO_103379005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105590001",
+        "type": "CLASS",
+        "lbl": "SCTO_105590001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105904009",
+        "type": "CLASS",
+        "lbl": "SCTO_105904009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_106237007",
+        "type": "CLASS",
+        "lbl": "SCTO_106237007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_116676008",
+        "type": "CLASS",
+        "lbl": "SCTO_116676008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_116686009",
+        "type": "CLASS",
+        "lbl": "SCTO_116686009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118168003",
+        "type": "CLASS",
+        "lbl": "SCTO_118168003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118169006",
+        "type": "CLASS",
+        "lbl": "SCTO_118169006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118170007",
+        "type": "CLASS",
+        "lbl": "SCTO_118170007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118171006",
+        "type": "CLASS",
+        "lbl": "SCTO_118171006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118956008",
+        "type": "CLASS",
+        "lbl": "SCTO_118956008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123005000",
+        "type": "CLASS",
+        "lbl": "SCTO_123005000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004",
+        "type": "CLASS",
+        "lbl": "SCTO_123037004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123038009",
+        "type": "CLASS",
+        "lbl": "SCTO_123038009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_127489000",
+        "type": "CLASS",
+        "lbl": "SCTO_127489000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2",
+        "type": "CLASS",
+        "lbl": "SCTO_129264002_2"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005",
+        "type": "CLASS",
+        "lbl": "SCTO_138875005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_182353008",
+        "type": "CLASS",
+        "lbl": "SCTO_182353008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_223496003",
+        "type": "CLASS",
+        "lbl": "SCTO_223496003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_24028007",
+        "type": "CLASS",
+        "lbl": "SCTO_24028007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246061005",
+        "type": "CLASS",
+        "lbl": "SCTO_246061005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246075003",
+        "type": "CLASS",
+        "lbl": "SCTO_246075003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246093002",
+        "type": "CLASS",
+        "lbl": "SCTO_246093002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246112005",
+        "type": "CLASS",
+        "lbl": "SCTO_246112005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246454002",
+        "type": "CLASS",
+        "lbl": "SCTO_246454002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246456000",
+        "type": "CLASS",
+        "lbl": "SCTO_246456000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246513007",
+        "type": "CLASS",
+        "lbl": "SCTO_246513007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246514001",
+        "type": "CLASS",
+        "lbl": "SCTO_246514001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_254291000",
+        "type": "CLASS",
+        "lbl": "SCTO_254291000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_255231005",
+        "type": "CLASS",
+        "lbl": "SCTO_255231005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_255234002",
+        "type": "CLASS",
+        "lbl": "SCTO_255234002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_257958009",
+        "type": "CLASS",
+        "lbl": "SCTO_257958009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_258349007",
+        "type": "CLASS",
+        "lbl": "SCTO_258349007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260245000",
+        "type": "CLASS",
+        "lbl": "SCTO_260245000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260507000",
+        "type": "CLASS",
+        "lbl": "SCTO_260507000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260686004",
+        "type": "CLASS",
+        "lbl": "SCTO_260686004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004",
+        "type": "CLASS",
+        "lbl": "SCTO_260787004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260870009",
+        "type": "CLASS",
+        "lbl": "SCTO_260870009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_261424001",
+        "type": "CLASS",
+        "lbl": "SCTO_261424001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_263502005",
+        "type": "CLASS",
+        "lbl": "SCTO_263502005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_263680009",
+        "type": "CLASS",
+        "lbl": "SCTO_263680009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_264752007",
+        "type": "CLASS",
+        "lbl": "SCTO_264752007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272099008",
+        "type": "CLASS",
+        "lbl": "SCTO_272099008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272103003",
+        "type": "CLASS",
+        "lbl": "SCTO_272103003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272125009",
+        "type": "CLASS",
+        "lbl": "SCTO_272125009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272126005",
+        "type": "CLASS",
+        "lbl": "SCTO_272126005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272127001",
+        "type": "CLASS",
+        "lbl": "SCTO_272127001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272141005",
+        "type": "CLASS",
+        "lbl": "SCTO_272141005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272379006",
+        "type": "CLASS",
+        "lbl": "SCTO_272379006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272396007",
+        "type": "CLASS",
+        "lbl": "SCTO_272396007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272424004",
+        "type": "CLASS",
+        "lbl": "SCTO_272424004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272741003",
+        "type": "CLASS",
+        "lbl": "SCTO_272741003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_276339004",
+        "type": "CLASS",
+        "lbl": "SCTO_276339004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277302009",
+        "type": "CLASS",
+        "lbl": "SCTO_277302009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277367001",
+        "type": "CLASS",
+        "lbl": "SCTO_277367001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_280115004",
+        "type": "CLASS",
+        "lbl": "SCTO_280115004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_281296001",
+        "type": "CLASS",
+        "lbl": "SCTO_281296001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_281586009",
+        "type": "CLASS",
+        "lbl": "SCTO_281586009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_282032007",
+        "type": "CLASS",
+        "lbl": "SCTO_282032007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_284009009",
+        "type": "CLASS",
+        "lbl": "SCTO_284009009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_288524001",
+        "type": "CLASS",
+        "lbl": "SCTO_288524001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_288526004",
+        "type": "CLASS",
+        "lbl": "SCTO_288526004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005",
+        "type": "CLASS",
+        "lbl": "SCTO_303102005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_307142001",
+        "type": "CLASS",
+        "lbl": "SCTO_307142001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_308489006",
+        "type": "CLASS",
+        "lbl": "SCTO_308489006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309795001",
+        "type": "CLASS",
+        "lbl": "SCTO_309795001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309825002",
+        "type": "CLASS",
+        "lbl": "SCTO_309825002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000",
+        "type": "CLASS",
+        "lbl": "SCTO_362981000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363675004",
+        "type": "CLASS",
+        "lbl": "SCTO_363675004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363698007",
+        "type": "CLASS",
+        "lbl": "SCTO_363698007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363699004",
+        "type": "CLASS",
+        "lbl": "SCTO_363699004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363700003",
+        "type": "CLASS",
+        "lbl": "SCTO_363700003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363701004",
+        "type": "CLASS",
+        "lbl": "SCTO_363701004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363702006",
+        "type": "CLASS",
+        "lbl": "SCTO_363702006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363703001",
+        "type": "CLASS",
+        "lbl": "SCTO_363703001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363704007",
+        "type": "CLASS",
+        "lbl": "SCTO_363704007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363705008",
+        "type": "CLASS",
+        "lbl": "SCTO_363705008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363709002",
+        "type": "CLASS",
+        "lbl": "SCTO_363709002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363710007",
+        "type": "CLASS",
+        "lbl": "SCTO_363710007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363713009",
+        "type": "CLASS",
+        "lbl": "SCTO_363713009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363714003",
+        "type": "CLASS",
+        "lbl": "SCTO_363714003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363787002",
+        "type": "CLASS",
+        "lbl": "SCTO_363787002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370129005",
+        "type": "CLASS",
+        "lbl": "SCTO_370129005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370130000",
+        "type": "CLASS",
+        "lbl": "SCTO_370130000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370131001",
+        "type": "CLASS",
+        "lbl": "SCTO_370131001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370132008",
+        "type": "CLASS",
+        "lbl": "SCTO_370132008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370133003",
+        "type": "CLASS",
+        "lbl": "SCTO_370133003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370134009",
+        "type": "CLASS",
+        "lbl": "SCTO_370134009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370135005",
+        "type": "CLASS",
+        "lbl": "SCTO_370135005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_373873005",
+        "type": "CLASS",
+        "lbl": "SCTO_373873005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_399455000",
+        "type": "CLASS",
+        "lbl": "SCTO_399455000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405813007",
+        "type": "CLASS",
+        "lbl": "SCTO_405813007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405814001",
+        "type": "CLASS",
+        "lbl": "SCTO_405814001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405815000",
+        "type": "CLASS",
+        "lbl": "SCTO_405815000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405816004",
+        "type": "CLASS",
+        "lbl": "SCTO_405816004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410607006",
+        "type": "CLASS",
+        "lbl": "SCTO_410607006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002",
+        "type": "CLASS",
+        "lbl": "SCTO_410662002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410675002",
+        "type": "CLASS",
+        "lbl": "SCTO_410675002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_411116001",
+        "type": "CLASS",
+        "lbl": "SCTO_411116001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_418775008",
+        "type": "CLASS",
+        "lbl": "SCTO_418775008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419066007",
+        "type": "CLASS",
+        "lbl": "SCTO_419066007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419891008",
+        "type": "CLASS",
+        "lbl": "SCTO_419891008"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424226004",
+        "type": "CLASS",
+        "lbl": "SCTO_424226004"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424244007",
+        "type": "CLASS",
+        "lbl": "SCTO_424244007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424361007",
+        "type": "CLASS",
+        "lbl": "SCTO_424361007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424876005",
+        "type": "CLASS",
+        "lbl": "SCTO_424876005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_425391005",
+        "type": "CLASS",
+        "lbl": "SCTO_425391005"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_42752001",
+        "type": "CLASS",
+        "lbl": "SCTO_42752001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_442083009",
+        "type": "CLASS",
+        "lbl": "SCTO_442083009"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_47429007",
+        "type": "CLASS",
+        "lbl": "SCTO_47429007"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_49062001",
+        "type": "CLASS",
+        "lbl": "SCTO_49062001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_49755003",
+        "type": "CLASS",
+        "lbl": "SCTO_49755003"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_51440002",
+        "type": "CLASS",
+        "lbl": "SCTO_51440002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_66459002",
+        "type": "CLASS",
+        "lbl": "SCTO_66459002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002",
+        "type": "CLASS",
+        "lbl": "SCTO_71388002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_7771000",
+        "type": "CLASS",
+        "lbl": "SCTO_7771000"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_78621006",
+        "type": "CLASS",
+        "lbl": "SCTO_78621006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_91723000",
+        "type": "CLASS",
+        "lbl": "SCTO_91723000"
+      },
+      {
+        "id": "http://www.geneontology.org/formats/oboInOwl#DbXref",
+        "type": "CLASS",
+        "lbl": "DbXref"
+      },
+      {
+        "id": "http://www.geneontology.org/formats/oboInOwl#Definition",
+        "type": "CLASS",
+        "lbl": "Definition"
+      },
+      {
+        "id": "http://www.geneontology.org/formats/oboInOwl#Subset",
+        "type": "CLASS",
+        "lbl": "Subset"
+      },
+      {
+        "id": "http://www.geneontology.org/formats/oboInOwl#Synonym",
+        "type": "CLASS",
+        "lbl": "Synonym"
+      },
+      {
+        "id": "http://www.geneontology.org/formats/oboInOwl#SynonymType",
+        "type": "CLASS",
+        "lbl": "SynonymType"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#DTO:0001943",
+        "type": "CLASS",
+        "lbl": "DTO:0001943"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#DTO:0001944",
+        "type": "CLASS",
+        "lbl": "DTO:0001944"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106229004",
+        "type": "CLASS",
+        "lbl": "SCTO_106229004"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106235004",
+        "type": "CLASS",
+        "lbl": "SCTO_106235004"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106239005",
+        "type": "CLASS",
+        "lbl": "SCTO_106239005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_115268005",
+        "type": "CLASS",
+        "lbl": "SCTO_115268005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_115670007",
+        "type": "CLASS",
+        "lbl": "SCTO_115670007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_118598001",
+        "type": "CLASS",
+        "lbl": "SCTO_118598001"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_123035007",
+        "type": "CLASS",
+        "lbl": "SCTO_123035007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002",
+        "type": "CLASS",
+        "lbl": "SCTO_129264002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129284003",
+        "type": "CLASS",
+        "lbl": "SCTO_129284003"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129300006",
+        "type": "CLASS",
+        "lbl": "SCTO_129300006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129325002",
+        "type": "CLASS",
+        "lbl": "SCTO_129325002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129347002",
+        "type": "CLASS",
+        "lbl": "SCTO_129347002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129348007",
+        "type": "CLASS",
+        "lbl": "SCTO_129348007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129371009",
+        "type": "CLASS",
+        "lbl": "SCTO_129371009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129379006",
+        "type": "CLASS",
+        "lbl": "SCTO_129379006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129380009",
+        "type": "CLASS",
+        "lbl": "SCTO_129380009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129407005",
+        "type": "CLASS",
+        "lbl": "SCTO_129407005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_21703008",
+        "type": "CLASS",
+        "lbl": "SCTO_21703008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257544000",
+        "type": "CLASS",
+        "lbl": "SCTO_257544000"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257867005",
+        "type": "CLASS",
+        "lbl": "SCTO_257867005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257937003",
+        "type": "CLASS",
+        "lbl": "SCTO_257937003"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_260299005",
+        "type": "CLASS",
+        "lbl": "SCTO_260299005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_261665006",
+        "type": "CLASS",
+        "lbl": "SCTO_261665006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_272099008",
+        "type": "CLASS",
+        "lbl": "SCTO_272099008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_272512009",
+        "type": "CLASS",
+        "lbl": "SCTO_272512009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_276214006",
+        "type": "CLASS",
+        "lbl": "SCTO_276214006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_278444000",
+        "type": "CLASS",
+        "lbl": "SCTO_278444000"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288529006",
+        "type": "CLASS",
+        "lbl": "SCTO_288529006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288531002",
+        "type": "CLASS",
+        "lbl": "SCTO_288531002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288532009",
+        "type": "CLASS",
+        "lbl": "SCTO_288532009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_297289008",
+        "type": "CLASS",
+        "lbl": "SCTO_297289008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_307120002",
+        "type": "CLASS",
+        "lbl": "SCTO_307120002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_308910008",
+        "type": "CLASS",
+        "lbl": "SCTO_308910008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360032005",
+        "type": "CLASS",
+        "lbl": "SCTO_360032005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360038009",
+        "type": "CLASS",
+        "lbl": "SCTO_360038009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360220002",
+        "type": "CLASS",
+        "lbl": "SCTO_360220002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_363555003",
+        "type": "CLASS",
+        "lbl": "SCTO_363555003"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_36692007",
+        "type": "CLASS",
+        "lbl": "SCTO_36692007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_385660001",
+        "type": "CLASS",
+        "lbl": "SCTO_385660001"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_394731006",
+        "type": "CLASS",
+        "lbl": "SCTO_394731006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410510008",
+        "type": "CLASS",
+        "lbl": "SCTO_410510008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410511007",
+        "type": "CLASS",
+        "lbl": "SCTO_410511007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410512000",
+        "type": "CLASS",
+        "lbl": "SCTO_410512000"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410513005",
+        "type": "CLASS",
+        "lbl": "SCTO_410513005"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410514004",
+        "type": "CLASS",
+        "lbl": "SCTO_410514004"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410536001",
+        "type": "CLASS",
+        "lbl": "SCTO_410536001"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410820007",
+        "type": "CLASS",
+        "lbl": "SCTO_410820007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_413529001",
+        "type": "CLASS",
+        "lbl": "SCTO_413529001"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_414753003",
+        "type": "CLASS",
+        "lbl": "SCTO_414753003"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_415240008",
+        "type": "CLASS",
+        "lbl": "SCTO_415240008"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419385000",
+        "type": "CLASS",
+        "lbl": "SCTO_419385000"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419652001",
+        "type": "CLASS",
+        "lbl": "SCTO_419652001"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419988009",
+        "type": "CLASS",
+        "lbl": "SCTO_419988009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_422096002",
+        "type": "CLASS",
+        "lbl": "SCTO_422096002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_422133006",
+        "type": "CLASS",
+        "lbl": "SCTO_422133006"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_425362007",
+        "type": "CLASS",
+        "lbl": "SCTO_425362007"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_430975009",
+        "type": "CLASS",
+        "lbl": "SCTO_430975009"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_698078002",
+        "type": "CLASS",
+        "lbl": "SCTO_698078002"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_703763000",
+        "type": "CLASS",
+        "lbl": "SCTO_703763000"
+      },
+      {
+        "id": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001",
+        "type": "CLASS",
+        "lbl": "SCTO_7389001"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/SCTO.owl#SCTO_00000037",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000037"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000012"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000020",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000020"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000021",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000021"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000022",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000022"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000023",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000023"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000024",
+        "type": "PROPERTY",
+        "lbl": "SCTO_00000024"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "type": "PROPERTY",
+        "lbl": "SCTO_0000006"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000002",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000002"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000103",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000103"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000120",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000120"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000121",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000121"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000122",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000122"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000123",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000123"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000124",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000124"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000125",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000125"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000224",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000224"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000226",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000226"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000227",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000227"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000228",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000228"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000229",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000229"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000410",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000410"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000420",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000420"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000421",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000421"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000423",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000423"
+      },
+      {
+        "id": "http://purl.obolibrary.org/obo/IAO_0000428",
+        "type": "INDIVIDUAL",
+        "lbl": "IAO_0000428"
+      }
+    ],
+    "edges": [
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106235004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129379006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129371009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000141"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_703763000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000103",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410514004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288529006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419891008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000038",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_116686009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272126005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272103003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405815000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000039",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000019"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000081",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000061"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000032",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000016"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363787002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000038"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_7771000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_182353008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000040",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000031",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405813007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363704007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_442083009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118170007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370133003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#DTO:0001943",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410536001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288532009"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129380009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129371009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000085",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000020"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_118598001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000038",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000057",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000410",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000409"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000011",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000084",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://www.geneontology.org/formats/oboInOwl#SynonymType",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_414753003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000066",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000063"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_182353008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272424004"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_425362007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257867005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129325002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_258349007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_264752007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_418775008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272424004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309825002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410512000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410511007"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_413529001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363787002",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000024"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000121",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000031"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000120",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410607006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_223496003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000031",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410513005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410511007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410607006",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000033",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000030"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000420",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000409"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363700003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405816004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363787002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000020"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000229",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000225"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000226",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000225"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246112005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_263680009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_308489006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000038",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000032"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000077",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_66459002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272424004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000028",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363713009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000026",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000022"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000099",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000097"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309795001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309825002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_282032007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_307142001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_422133006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_422096002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000023",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000031",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000016"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_260299005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_78621006",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000074",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000031"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000086",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000019"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_254291000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_276339004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000078",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_288526004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363709002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405816004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000023",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000017"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260245000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_307120002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_394731006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105590001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000106",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246075003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_47429007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000059",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363710007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405815000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_425391005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424226004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000030",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000016"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000147",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000140"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000102",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000045"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000037",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000032"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_307142001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_223496003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000027",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000023"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_276339004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000029"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410607006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000030"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000105",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363787002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000423",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_78621006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000020"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129300006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129325002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424226004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405815000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_363555003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_263502005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363701004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000145",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000019"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_411116001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000073",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000124",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000017",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000020"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272141005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_258349007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_116676008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000014",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288531002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272379006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000228",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000225"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000142",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000140"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405816004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_276339004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_280115004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_442083009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000061",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000060"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000025",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000022"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106239005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000056",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000002",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246514001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257867005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129325002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000087",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000103",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000225"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123038009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000030"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_255234002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_47429007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_49755003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118956008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000065",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000063"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_49062001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424244007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_281296001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000083",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246513007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000030"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129347002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410820007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_47429007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_276214006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_297289008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000021",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_254291000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_373873005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000030"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_272099008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_276339004",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288529006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360038009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129371009"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_115268005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272103003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272099008"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288532009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288529006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410675002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118171006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000140",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000141"
+      },
+      {
+        "sub": "http://www.geneontology.org/formats/oboInOwl#Subset",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277302009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272099008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000409",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000028",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000023"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000030",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000031"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_123035007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000038"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000080",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000061"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000015",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118168003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246456000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000017",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000079",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129300006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000078",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000091",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260507000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_24028007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_182353008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_91723000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_442083009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000022",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000019"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370130000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_255231005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272127001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129348007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129347002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000018",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000034",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000031"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360220002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000101",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000097"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000421",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000409"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_272512009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000088",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000030"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129407005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_425362007"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_36692007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410514004"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_415240008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000016",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_261424001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_399455000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272127001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272126005"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410820007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129407005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000024",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000051",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000047"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_373873005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_106237007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000030",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000020",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419988009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000182",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272741003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105590001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000100",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000097"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000097",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000096"
+      },
+      {
+        "sub": "http://www.geneontology.org/formats/oboInOwl#Synonym",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000022",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_106237007"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_115670007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000016",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000017"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246454002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000098",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000097"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129371009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129284003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000024",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000224",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://www.geneontology.org/formats/oboInOwl#Subset"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000094",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000063"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_264752007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272396007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419891008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370134009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272125009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272103003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363699004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405815000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246093002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_261665006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410514004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000038",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000033",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000030"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_422133006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000038"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_254291000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000031"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000040",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000039"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_103379005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309825002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_123035007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000055",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000020",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_51440002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_24028007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363705008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370131001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000227",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000225"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_309825002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370129005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257544000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360220002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_78621006"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_106229004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419891008",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000146",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000140"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000019",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363704007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363714003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000148",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000122",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424876005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000045",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123005000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410607006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363675004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277367001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_308910008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000050",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000047"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_281586009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_223496003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118956008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123037004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000141",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000004"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272379006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000026",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_223496003",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_254291000",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_360032005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129347002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000027",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000030"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000015",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000014"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_284009009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419066007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_278444000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419385000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419988009"
+      },
+      {
+        "sub": "http://www.geneontology.org/formats/oboInOwl#Definition",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419988009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#DTO:0001944",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000035",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000031"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000012",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123038009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246061005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000125",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://www.geneontology.org/formats/oboInOwl#DbXref",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129284003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000102",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123038009",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000060",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410510008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288529006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_78621006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000144",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_399455000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277367001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_246061005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_106237007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000018",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000064",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000063"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000104",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_7389001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000082",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000061"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363702006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363703001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370135005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000123",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000014",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272379006",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260787004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000030"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_42752001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_47429007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_123038009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000063",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105590001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000030"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419652001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_419988009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_281586009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000089",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000092",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_419891008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000031"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000428",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000078"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363698007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000096",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_308489006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_373873005",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_257937003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129347002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000024",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000047",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000045"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105904009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000093",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000027"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410511007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_410510008"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272379006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000035"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260870009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_260686004",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_129264002_2"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/IAO_0000225",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/IAO_0000102"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000027",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000040"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_105590001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000014",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_405814001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_363704007"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000029",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000141"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000090",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272396007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_698078002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_430975009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129300006"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_127489000",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272099008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000019",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000020"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_373873005",
+        "pred": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_0000006",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_00000001"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_385660001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_288532009"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_257958009",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_272127001"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000029",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000024"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_21703008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_362981000"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277367001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_277302009"
+      },
+      {
+        "sub": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129284003",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "https://bioportal.bioontology.org/ontologies/SCTO#SCTO_129264002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_118169006",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_424361007",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_370132008",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_410662002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000023",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000019"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000034",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000016"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000046",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/OGMS_0000045"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000020",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000002"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OGMS_0000095",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_288524001",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_303102005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_71388002",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/ogms.owl#SCTO_138875005"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/BFO_0000035",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000003"
+      },
+      {
+        "sub": "http://purl.obolibrary.org/obo/OBI_0000011",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://purl.obolibrary.org/obo/BFO_0000015"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1993 @@
+{
+  "graphs": {
+    "nodes": [
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "type": "CLASS",
+        "lbl": "BC35_Physical_Thing"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event",
+        "type": "CLASS",
+        "lbl": "BC10_Event"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "type": "CLASS",
+        "lbl": "BC8_Actor"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "type": "CLASS",
+        "lbl": "BC1_TLO_Entity"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment",
+        "type": "CLASS",
+        "lbl": "BC44_Attribute_Assignment"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity",
+        "type": "CLASS",
+        "lbl": "BC43_Activity"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place",
+        "type": "CLASS",
+        "lbl": "BC3_Place"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon",
+        "type": "CLASS",
+        "lbl": "BC4_Temporal_Phenomenon"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "type": "CLASS",
+        "lbl": "BC45_Observation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity",
+        "type": "CLASS",
+        "lbl": "BC9_Observable_Entity"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension",
+        "type": "CLASS",
+        "lbl": "BC5_Dimension"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing",
+        "type": "CLASS",
+        "lbl": "BC7_Thing"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation",
+        "type": "CLASS",
+        "lbl": "BC30_Appellation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC55_Measurement_Unit",
+        "type": "CLASS",
+        "lbl": "BC55_Measurement_Unit"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC20_Declarative_Place",
+        "type": "CLASS",
+        "lbl": "BC20_Declarative_Place"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC29_Spatial_Coordinate_Reference_System",
+        "type": "CLASS",
+        "lbl": "BC29_Spatial_Coordinate_Reference_System"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC34_Geometric_Place_Expression",
+        "type": "CLASS",
+        "lbl": "BC34_Geometric_Place_Expression"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object",
+        "type": "CLASS",
+        "lbl": "BC23_Digital_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "type": "CLASS",
+        "lbl": "BC56_Digital_Measurement_Event"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition",
+        "type": "CLASS",
+        "lbl": "BC18_Proposition"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC59_Software",
+        "type": "CLASS",
+        "lbl": "BC59_Software"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC58_Digital_Device",
+        "type": "CLASS",
+        "lbl": "BC58_Digital_Device"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC57_Capture",
+        "type": "CLASS",
+        "lbl": "BC57_Capture"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC61_Capture_Activity",
+        "type": "CLASS",
+        "lbl": "BC61_Capture_Activity"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement",
+        "type": "CLASS",
+        "lbl": "BC54_Measurement"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC72_SpaceTime_Volume",
+        "type": "CLASS",
+        "lbl": "BC72_SpaceTime_Volume"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC2_Time_Span",
+        "type": "CLASS",
+        "lbl": "BC2_Time_Span"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC32_Identifier",
+        "type": "CLASS",
+        "lbl": "BC32_Identifier"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC64_Design_or_Procedure",
+        "type": "CLASS",
+        "lbl": "BC64_Design_or_Procedure"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right",
+        "type": "CLASS",
+        "lbl": "BC79_Right"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item",
+        "type": "CLASS",
+        "lbl": "BC6_Persistent_Item"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT14_Appellation_Type",
+        "type": "CLASS",
+        "lbl": "BT14_Appellation_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type",
+        "type": "CLASS",
+        "lbl": "BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "type": "CLASS",
+        "lbl": "BT10_Biotic_Element_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT7_Ecosystem_Type",
+        "type": "CLASS",
+        "lbl": "BT7_Ecosystem_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type",
+        "type": "CLASS",
+        "lbl": "BT1_TLO_Entity_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type",
+        "type": "CLASS",
+        "lbl": "BT4_Conceptual_Object_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type",
+        "type": "CLASS",
+        "lbl": "BT17_Human_Activity_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT9_Actor_Type",
+        "type": "CLASS",
+        "lbl": "BT9_Actor_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type",
+        "type": "CLASS",
+        "lbl": "BT3_Physical_Thing_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object",
+        "type": "CLASS",
+        "lbl": "BC17_Conceptual_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type",
+        "type": "CLASS",
+        "lbl": "BT32_Persisten_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT35_Property_Type",
+        "type": "CLASS",
+        "lbl": "BT35_Property_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC25_Linguistic_Object",
+        "type": "CLASS",
+        "lbl": "BC25_Linguistic_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT36_Language",
+        "type": "CLASS",
+        "lbl": "BT36_Language"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC11_Person",
+        "type": "CLASS",
+        "lbl": "BC11_Person"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC12_Ecosystem",
+        "type": "CLASS",
+        "lbl": "BC12_Ecosystem"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC13_Organization",
+        "type": "CLASS",
+        "lbl": "BC13_Organization"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC14_Ecosystem_Environment",
+        "type": "CLASS",
+        "lbl": "BC14_Ecosystem_Environment"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC15_Water_Area",
+        "type": "CLASS",
+        "lbl": "BC15_Water_Area"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC16_Man-Made_thing",
+        "type": "CLASS",
+        "lbl": "BC16_Man-Made_thing"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC19_Title",
+        "type": "CLASS",
+        "lbl": "BC19_Title"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC21_DataSet",
+        "type": "CLASS",
+        "lbl": "BC21_DataSet"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC22_Encounter_Event",
+        "type": "CLASS",
+        "lbl": "BC22_Encounter_Event"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC24_Repository_Object",
+        "type": "CLASS",
+        "lbl": "BC24_Repository_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC26_Place_Name",
+        "type": "CLASS",
+        "lbl": "BC26_Place_Name"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC31_Place_Appellation",
+        "type": "CLASS",
+        "lbl": "BC31_Place_Appellation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC27_Publication",
+        "type": "CLASS",
+        "lbl": "BC27_Publication"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC33_Spatial_Coordinate",
+        "type": "CLASS",
+        "lbl": "BC33_Spatial_Coordinate"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC36_Abiotic_Element",
+        "type": "CLASS",
+        "lbl": "BC36_Abiotic_Element"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC37_Biological_Object",
+        "type": "CLASS",
+        "lbl": "BC37_Biological_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC51_Physical_Object",
+        "type": "CLASS",
+        "lbl": "BC51_Physical_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC38_Biotic_Element",
+        "type": "CLASS",
+        "lbl": "BC38_Biotic_Element"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC39_Marine_Animal",
+        "type": "CLASS",
+        "lbl": "BC39_Marine_Animal"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC40_Physical_Man-Made_Thing",
+        "type": "CLASS",
+        "lbl": "BC40_Physical_Man-Made_Thing"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC41_Man-Made_Object",
+        "type": "CLASS",
+        "lbl": "BC41_Man-Made_Object"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC42_Collection",
+        "type": "CLASS",
+        "lbl": "BC42_Collection"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC46_Identifier_Assignment",
+        "type": "CLASS",
+        "lbl": "BC46_Identifier_Assignment"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC47_Image",
+        "type": "CLASS",
+        "lbl": "BC47_Image"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC48_Database",
+        "type": "CLASS",
+        "lbl": "BC48_Database"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC53_Specimen",
+        "type": "CLASS",
+        "lbl": "BC53_Specimen"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC60_Software_Execution",
+        "type": "CLASS",
+        "lbl": "BC60_Software_Execution"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC62_Statistic_Indicator",
+        "type": "CLASS",
+        "lbl": "BC62_Statistic_Indicator"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC63_Global_Statistic_Landing",
+        "type": "CLASS",
+        "lbl": "BC63_Global_Statistic_Landing"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC70_Group",
+        "type": "CLASS",
+        "lbl": "BC70_Group"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC71_Name_Use_Activity",
+        "type": "CLASS",
+        "lbl": "BC71_Name_Use_Activity"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC75_Stock",
+        "type": "CLASS",
+        "lbl": "BC75_Stock"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC76_Stock_Formation",
+        "type": "CLASS",
+        "lbl": "BC76_Stock_Formation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC77_Matter_Removal",
+        "type": "CLASS",
+        "lbl": "BC77_Matter_Removal"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC78_Amount_of_Matter",
+        "type": "CLASS",
+        "lbl": "BC78_Amount_of_Matter"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT11_Equipment_Type",
+        "type": "CLASS",
+        "lbl": "BT11_Equipment_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT12_Scientific_Data_Type",
+        "type": "CLASS",
+        "lbl": "BT12_Scientific_Data_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT13_Digital_Object_Type",
+        "type": "CLASS",
+        "lbl": "BT13_Digital_Object_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT16_Visual_Type",
+        "type": "CLASS",
+        "lbl": "BT16_Visual_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT6_Human_Event_Type",
+        "type": "CLASS",
+        "lbl": "BT6_Human_Event_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT18_Kingdom",
+        "type": "CLASS",
+        "lbl": "BT18_Kingdom"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT19_Phylum",
+        "type": "CLASS",
+        "lbl": "BT19_Phylum"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT20_SubPhylum",
+        "type": "CLASS",
+        "lbl": "BT20_SubPhylum"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT21_SuperClass",
+        "type": "CLASS",
+        "lbl": "BT21_SuperClass"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT22_Class",
+        "type": "CLASS",
+        "lbl": "BT22_Class"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT23_SubClass",
+        "type": "CLASS",
+        "lbl": "BT23_SubClass"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT24_Family",
+        "type": "CLASS",
+        "lbl": "BT24_Family"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT25_SubFamily",
+        "type": "CLASS",
+        "lbl": "BT25_SubFamily"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT26_Genus",
+        "type": "CLASS",
+        "lbl": "BT26_Genus"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT27_Species",
+        "type": "CLASS",
+        "lbl": "BT27_Species"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT28_Scientific_Activity_Type",
+        "type": "CLASS",
+        "lbl": "BT28_Scientific_Activity_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT29_Industrial_Activity_Type",
+        "type": "CLASS",
+        "lbl": "BT29_Industrial_Activity_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT30_Identifier_Assignment_Type",
+        "type": "CLASS",
+        "lbl": "BT30_Identifier_Assignment_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT31_Biological_Part_Time",
+        "type": "CLASS",
+        "lbl": "BT31_Biological_Part_Time"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT33_Marine_Animal_Type",
+        "type": "CLASS",
+        "lbl": "BT33_Marine_Animal_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT34_Order",
+        "type": "CLASS",
+        "lbl": "BT34_Order"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT5_Legislative_Zone_Type",
+        "type": "CLASS",
+        "lbl": "BT5_Legislative_Zone_Type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT8_Abiotic_Element_Type",
+        "type": "CLASS",
+        "lbl": "BT8_Abiotic_Element_Type"
+      },
+      {
+        "id": "http://xmlns.com/foaf/0.1/Person",
+        "type": "CLASS",
+        "lbl": "Person"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC10_belongs_to",
+        "type": "PROPERTY",
+        "lbl": "LC10_belongs_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC10_has_member",
+        "type": "PROPERTY",
+        "lbl": "LC10_has_member"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC11_had_participant",
+        "type": "PROPERTY",
+        "lbl": "LC11_had_participant"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC11_participated_in",
+        "type": "PROPERTY",
+        "lbl": "LC11_participated_in"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC12_assigned_attribute_to",
+        "type": "PROPERTY",
+        "lbl": "LC12_assigned_attribute_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC12_was_attributed_by",
+        "type": "PROPERTY",
+        "lbl": "LC12_was_attributed_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC13_is_carried_out_by",
+        "type": "PROPERTY",
+        "lbl": "LC13_is_carried_out_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC13_performed",
+        "type": "PROPERTY",
+        "lbl": "LC13_performed"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC15_took_place_at",
+        "type": "PROPERTY",
+        "lbl": "LC15_took_place_at"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC15_witnessed",
+        "type": "PROPERTY",
+        "lbl": "LC15_witnessed"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC16_forms_part_of",
+        "type": "PROPERTY",
+        "lbl": "LC16_forms_part_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC16_is_composed_of",
+        "type": "PROPERTY",
+        "lbl": "LC16_is_composed_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC17_observed",
+        "type": "PROPERTY",
+        "lbl": "LC17_observed"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC17_was_observed_during",
+        "type": "PROPERTY",
+        "lbl": "LC17_was_observed_during"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC19_has_dimension",
+        "type": "PROPERTY",
+        "lbl": "LC19_has_dimension"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC19_is_dimension_of",
+        "type": "PROPERTY",
+        "lbl": "LC19_is_dimension_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC1_is_identified_by",
+        "type": "PROPERTY",
+        "lbl": "LC1_is_identified_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC21_has_unit",
+        "type": "PROPERTY",
+        "lbl": "LC21_has_unit"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC21_is_unit_of",
+        "type": "PROPERTY",
+        "lbl": "LC21_is_unit_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC22_approximates",
+        "type": "PROPERTY",
+        "lbl": "LC22_approximates"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC23_is_expressed_in_terms_of",
+        "type": "PROPERTY",
+        "lbl": "LC23_is_expressed_in_terms_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC24_defines_place",
+        "type": "PROPERTY",
+        "lbl": "LC24_defines_place"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC27_has_section",
+        "type": "PROPERTY",
+        "lbl": "LC27_has_section"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC27_is_located_on_or_within",
+        "type": "PROPERTY",
+        "lbl": "LC27_is_located_on_or_within"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC28_has_dimension",
+        "type": "PROPERTY",
+        "lbl": "LC28_has_dimension"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC29_had_output",
+        "type": "PROPERTY",
+        "lbl": "LC29_had_output"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC2_is_referred_by",
+        "type": "PROPERTY",
+        "lbl": "LC2_is_referred_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC2_refers_to",
+        "type": "PROPERTY",
+        "lbl": "LC2_refers_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC30_had_input",
+        "type": "PROPERTY",
+        "lbl": "LC30_had_input"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC31_used_software",
+        "type": "PROPERTY",
+        "lbl": "LC31_used_software"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC32_happened_on_device",
+        "type": "PROPERTY",
+        "lbl": "LC32_happened_on_device"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC33_captures",
+        "type": "PROPERTY",
+        "lbl": "LC33_captures"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC34_observed_dimension",
+        "type": "PROPERTY",
+        "lbl": "LC34_observed_dimension"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC35_describes",
+        "type": "PROPERTY",
+        "lbl": "LC35_describes"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC36_is_fixed_on",
+        "type": "PROPERTY",
+        "lbl": "LC36_is_fixed_on"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC37_measured",
+        "type": "PROPERTY",
+        "lbl": "LC37_measured"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC37_was_measured_by",
+        "type": "PROPERTY",
+        "lbl": "LC37_was_measured_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC38_falls_within_or_overlaps",
+        "type": "PROPERTY",
+        "lbl": "LC38_falls_within_or_overlaps"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC43_occupied",
+        "type": "PROPERTY",
+        "lbl": "LC43_occupied"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC44_has_temporal_projection",
+        "type": "PROPERTY",
+        "lbl": "LC44_has_temporal_projection"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC45_has_spatial_projection",
+        "type": "PROPERTY",
+        "lbl": "LC45_has_spatial_projection"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC46_observed_value",
+        "type": "PROPERTY",
+        "lbl": "LC46_observed_value"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC47_took_place_at",
+        "type": "PROPERTY",
+        "lbl": "LC47_took_place_at"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC48_assigned_dimension",
+        "type": "PROPERTY",
+        "lbl": "LC48_assigned_dimension"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC4_has_appellation",
+        "type": "PROPERTY",
+        "lbl": "LC4_has_appellation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC4_is_appellation_of",
+        "type": "PROPERTY",
+        "lbl": "LC4_is_appellation_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC5_has_time_span",
+        "type": "PROPERTY",
+        "lbl": "LC5_has_time_span"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC5_is_time_span_of",
+        "type": "PROPERTY",
+        "lbl": "LC5_is_time_span_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC55_used_object_of_type",
+        "type": "PROPERTY",
+        "lbl": "LC55_used_object_of_type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC55_was_type_of_object_used_in",
+        "type": "PROPERTY",
+        "lbl": "LC55_was_type_of_object_used_in"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC56_has_preferred_identifier",
+        "type": "PROPERTY",
+        "lbl": "LC56_has_preferred_identifier"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC56_is_preferred_identifier_of",
+        "type": "PROPERTY",
+        "lbl": "LC56_is_preferred_identifier_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC57_used_specific_technique",
+        "type": "PROPERTY",
+        "lbl": "LC57_used_specific_technique"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC57_was_used_by",
+        "type": "PROPERTY",
+        "lbl": "LC57_was_used_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC58_right_held_by",
+        "type": "PROPERTY",
+        "lbl": "LC58_right_held_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC58_has_right_on",
+        "type": "PROPERTY",
+        "lbl": "LC58_has_right_on"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC59_is_subject_to",
+        "type": "PROPERTY",
+        "lbl": "LC59_is_subject_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC59_applies_to",
+        "type": "PROPERTY",
+        "lbl": "LC59_applies_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC60_possesses",
+        "type": "PROPERTY",
+        "lbl": "LC60_possesses"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC60_is_possessed_by",
+        "type": "PROPERTY",
+        "lbl": "LC60_is_possessed_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC6_has_alternative_form",
+        "type": "PROPERTY",
+        "lbl": "LC6_has_alternative_form"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC7_is_about",
+        "type": "PROPERTY",
+        "lbl": "LC7_is_about"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC8_occured_in_the_presence_of",
+        "type": "PROPERTY",
+        "lbl": "LC8_occured_in_the_presence_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC8_was_present_at",
+        "type": "PROPERTY",
+        "lbl": "LC8_was_present_at"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC9_assigned",
+        "type": "PROPERTY",
+        "lbl": "LC9_assigned"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC9_was_assigned_by",
+        "type": "PROPERTY",
+        "lbl": "LC9_was_assigned_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT1_usually_identifies",
+        "type": "PROPERTY",
+        "lbl": "LT1_usually_identifies"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT1_usually_is_identified_by",
+        "type": "PROPERTY",
+        "lbl": "LT1_usually_is_identified_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT2_usually_consists_of",
+        "type": "PROPERTY",
+        "lbl": "LT2_usually_consists_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT2_usually_is_component_of",
+        "type": "PROPERTY",
+        "lbl": "LT2_usually_is_component_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT3_usaually_is_component_of",
+        "type": "PROPERTY",
+        "lbl": "LT3_usaually_is_component_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT3_usually_has_component",
+        "type": "PROPERTY",
+        "lbl": "LT3_usually_has_component"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT4_usually_appears_to",
+        "type": "PROPERTY",
+        "lbl": "LT4_usually_appears_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT4_usually_use_to_appear",
+        "type": "PROPERTY",
+        "lbl": "LT4_usually_use_to_appear"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT5_usually_is_predator_of",
+        "type": "PROPERTY",
+        "lbl": "LT5_usually_is_predator_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT5_usually_is_prey_of",
+        "type": "PROPERTY",
+        "lbl": "LT5_usually_is_prey_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT6_usually_is_about",
+        "type": "PROPERTY",
+        "lbl": "LT6_usually_is_about"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT6_usually_is_subject_of",
+        "type": "PROPERTY",
+        "lbl": "LT6_usually_is_subject_of"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT7_usually_is_carried_out_by",
+        "type": "PROPERTY",
+        "lbl": "LT7_usually_is_carried_out_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT7_usually_performed",
+        "type": "PROPERTY",
+        "lbl": "LT7_usually_performed"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT8_usually_belongs_to",
+        "type": "PROPERTY",
+        "lbl": "LT8_usually_belongs_to"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT8_usually_has_member",
+        "type": "PROPERTY",
+        "lbl": "LT8_usually_has_member"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX1_is_identified_by",
+        "type": "PROPERTY",
+        "lbl": "LX1_is_identified_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX2_is_about_type",
+        "type": "PROPERTY",
+        "lbl": "LX2_is_about_type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX3_has_type",
+        "type": "PROPERTY",
+        "lbl": "LX3_has_type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX4_has_appellation",
+        "type": "PROPERTY",
+        "lbl": "LX4_has_appellation"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX6_assigned_attribute_to_type",
+        "type": "PROPERTY",
+        "lbl": "LX6_assigned_attribute_to_type"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX6_type_was_attributed_by",
+        "type": "PROPERTY",
+        "lbl": "LX6_type_was_attributed_by"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX7_observed_propery",
+        "type": "PROPERTY",
+        "lbl": "LX7_observed_propery"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX7_was_observed_in",
+        "type": "PROPERTY",
+        "lbl": "LX7_was_observed_in"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX8_has_language",
+        "type": "PROPERTY",
+        "lbl": "LX8_has_language"
+      },
+      {
+        "id": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX8_is_language_of",
+        "type": "PROPERTY",
+        "lbl": "LX8_is_language_of"
+      },
+      {
+        "id": "http://users.ics.forth.gr/~fafalios",
+        "type": "INDIVIDUAL",
+        "lbl": "~fafalios"
+      },
+      {
+        "id": "http://users.ics.forth.gr/~tzitzik",
+        "type": "INDIVIDUAL",
+        "lbl": "~tzitzik"
+      },
+      {
+        "id": "http://users.ics.forth.gr/~marketak/pages/aboutme.html",
+        "type": "INDIVIDUAL",
+        "lbl": "aboutme.html"
+      }
+    ],
+    "edges": [
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC20_Declarative_Place",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC31_Place_Appellation",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC61_Capture_Activity",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT20_SubPhylum",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT25_SubFamily",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC16_is_composed_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC55_Measurement_Unit",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT9_Actor_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC32_Identifier",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC56_is_preferred_identifier_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC48_assigned_dimension",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC57_Capture",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT4_usually_appears_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT23_SubClass",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC59_Software",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC21_has_unit",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC55_Measurement_Unit"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC12_assigned_attribute_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC72_SpaceTime_Volume",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC44_has_temporal_projection",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC2_Time_Span"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC78_Amount_of_Matter",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT7_Ecosystem_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT8_usually_belongs_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX2_is_about_type",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX6_type_was_attributed_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT4_usually_use_to_appear",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC39_Marine_Animal",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC38_Biotic_Element"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC15_Water_Area",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC34_Geometric_Place_Expression",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC33_Spatial_Coordinate"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persistent_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC55_was_type_of_object_used_in",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC22_Encounter_Event",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC33_Spatial_Coordinate",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC75_Stock",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC34_Geometric_Place_Expression",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC24_defines_place",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC20_Declarative_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT2_usually_is_component_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC34_observed_dimension",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC27_is_located_on_or_within",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT35_Property_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC13_is_carried_out_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC19_is_dimension_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC14_Ecosystem_Environment",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC1_is_identified_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX7_observed_propery",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT35_Property_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT36_Language",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX8_is_language_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC25_Linguistic_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC76_Stock_Formation",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC27_Publication",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC2_is_referred_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX4_has_appellation",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC34_Geometric_Place_Expression",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC23_is_expressed_in_terms_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC29_Spatial_Coordinate_Reference_System"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC58_right_held_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT8_usually_has_member",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC55_Measurement_Unit",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC21_is_unit_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC28_has_dimension",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC32_Identifier",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT16_Visual_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT33_Marine_Animal_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC17_observed",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC46_observed_value",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC2_Time_Span",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC43_occupied",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC72_SpaceTime_Volume"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC10_belongs_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC48_Database",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC29_Spatial_Coordinate_Reference_System",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC35_describes",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT26_Genus",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC32_happened_on_device",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC58_Digital_Device"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC19_has_dimension",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC30_had_input",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC13_Organization",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT29_Industrial_Activity_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC8_was_present_at",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC9_was_assigned_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC37_measured",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT14_Appellation_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC29_had_output",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX6_assigned_attribute_to_type",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persisten_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC24_Repository_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC23_Digital_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT6_Human_Event_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT7_usually_is_carried_out_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT9_Actor_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT36_Language",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC9_assigned",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC46_Identifier_Assignment",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://users.ics.forth.gr/~fafalios",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://xmlns.com/foaf/0.1/Person"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC25_Linguistic_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC60_Software_Execution",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC19_Title",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC25_Linguistic_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC61_Capture_Activity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC33_captures",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC57_Capture"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC53_Specimen",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC38_Biotic_Element"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC72_SpaceTime_Volume",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC11_Person",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT5_usually_is_prey_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC19_Title",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC11_participated_in",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC15_witnessed",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC29_Spatial_Coordinate_Reference_System",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT30_Identifier_Assignment_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC8_occured_in_the_presence_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC4_has_appellation",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT2_usually_consists_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC38_Biotic_Element",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC37_Biological_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC51_Physical_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT27_Species",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC72_SpaceTime_Volume",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC45_has_spatial_projection",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT21_SuperClass",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT22_Class",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC58_has_right_on",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC27_has_section",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT12_Scientific_Data_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC5_has_time_span",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC2_Time_Span"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC6_Persistent_Item",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT5_Legislative_Zone_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC42_Collection",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC40_Physical_Man-Made_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC5_Dimension",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://users.ics.forth.gr/~tzitzik",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://xmlns.com/foaf/0.1/Person"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC36_Abiotic_Element",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC71_Name_Use_Activity",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC26_Place_Name",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC31_Place_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT35_Property_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX7_was_observed_in",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT7_Ecosystem_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT3_usually_has_component",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC58_Digital_Device",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC16_Man-Made_thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC11_had_participant",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT18_Kingdom",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC20_Declarative_Place",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC22_approximates",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC55_used_object_of_type",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT32_Persistent_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC7_is_about",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC4_is_appellation_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC47_Image",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC47_took_place_at",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX1_is_identified_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC30_Appellation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC64_Design_or_Procedure",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC57_was_used_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT31_Biological_Part_Time",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC2_Time_Span",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC5_is_time_span_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC16_Man-Made_thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC17_was_observed_during",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC45_Observation"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC29_Spatial_Coordinate_Reference_System",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC36_is_fixed_on",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC40_Physical_Man-Made_Thing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC60_is_possessed_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC53_Specimen",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC41_Man-Made_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT14_Appellation_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT1_usually_identifies",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT19_Phylum",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT11_Equipment_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC62_Statistic_Indicator",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC13_performed",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT28_Scientific_Activity_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT1_usually_is_identified_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT14_Appellation_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT5_usually_is_predator_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC21_DataSet",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC12_was_attributed_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC64_Design_or_Procedure",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC17_Conceptual_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC37_Biological_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC51_Physical_Object"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT13_Digital_Object_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT6_Human_Event_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT2_Temporal_Phenomenon_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC38_falls_within_or_overlaps",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC57_used_specific_technique",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC64_Design_or_Procedure"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC25_Linguistic_Object",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX8_has_language",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT36_Language"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC70_Group",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT24_Family",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC56_Digital_Measurement_Event",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC31_used_software",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC59_Software"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LX3_has_type",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT6_usually_is_subject_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC77_Matter_Removal",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC12_Ecosystem",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC16_Man-Made_thing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC8_Actor",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC60_possesses",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT9_Actor_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT7_usually_performed",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT17_Human_Activity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT34_Order",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC59_is_subject_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC59_applies_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC7_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT10_Biotic_Element_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT3_usaually_is_component_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT7_Ecosystem_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC2_refers_to",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://users.ics.forth.gr/~marketak/pages/aboutme.html",
+        "pred": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "obj": "http://xmlns.com/foaf/0.1/Person"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC40_Physical_Man-Made_Thing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC16_Man-Made_thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC63_Global_Statistic_Landing",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC44_Attribute_Assignment"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC9_Observable_Entity",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC56_has_preferred_identifier",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC32_Identifier"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC41_Man-Made_Object",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC40_Physical_Man-Made_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT4_Conceptual_Object_Type",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LT6_usually_is_about",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT1_TLO_Entity_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC4_Temporal_Phenomenon",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC15_took_place_at",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC3_Place"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC16_forms_part_of",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC35_Physical_Thing"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC79_Right",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC18_Proposition"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT8_Abiotic_Element_Type",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BT3_Physical_Thing_Type"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC43_Activity",
+        "pred": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC10_Event"
+      },
+      {
+        "sub": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC1_TLO_Entity",
+        "pred": "http://www.ics.forth.gr/isl/ontology/MarineTLO/LC37_was_measured_by",
+        "obj": "http://www.ics.forth.gr/isl/ontology/MarineTLO/BC54_Measurement"
+      }
+    ]
+  }
+}
