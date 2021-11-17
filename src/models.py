@@ -189,7 +189,7 @@ class TransE(PredictionModel):
         super(TransE, self).__init__()
         self.time = 0
         self.dim = 128
-        self.epochs = 175
+        self.epochs = 180
         self.batch_size = 128
         self.seed = 18
         torch.manual_seed(self.seed)
@@ -290,7 +290,7 @@ class RotatE(PredictionModel):
         super(RotatE, self).__init__()
         self.time = 0
         self.dim = 128
-        self.epochs = 175
+        self.epochs = 180
         self.batch_size = 128
         self.seed = 18
         torch.manual_seed(self.seed)
@@ -433,7 +433,7 @@ class GAT(torch.nn.Module):
 class GATModel(PredictionModel):
     def __init__(self):
         self.model = None
-        self.epochs = 400
+        self.epochs = 300
         self.hidden_dim = 128
         self.output_dim = 128
         self.seed = 18
@@ -499,7 +499,7 @@ class GIN(torch.nn.Module):
 class GINModel(PredictionModel):
     def __init__(self):
         self.model = None
-        self.epochs = 400
+        self.epochs = 300
         self.hidden_dim = 128
         self.output_dim = 128
         self.seed = 18
@@ -562,7 +562,7 @@ class GCN(torch.nn.Module):
 class GCNModel(PredictionModel):
     def __init__(self):
         self.model = None
-        self.epochs = 400
+        self.epochs = 300
         self.hidden_dim = 128
         self.output_dim = 128
         self.seed = 18
@@ -620,7 +620,7 @@ class GCNGAE(torch.nn.Module):
 class GAEModel(PredictionModel):
     def __init__(self):
         self.model = None
-        self.epochs = 400
+        self.epochs = 300
         self.hidden_dim = 128
         self.output_dim = 128
         self.seed = 18

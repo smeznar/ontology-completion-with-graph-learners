@@ -212,7 +212,7 @@ if __name__ == '__main__':
     parser.add_argument('--out', help="Output directory for the score.", required=True, action='store')
     args = parser.parse_args()
 
-    if args.dataset == "LKN":
+    if args.dataset == "../data/LKN.json":
         mgraph, node_ids, edge_ids = read_lkn()
     else:
         mgraph, node_ids, edge_ids = read_graph_from_json(args.dataset)
