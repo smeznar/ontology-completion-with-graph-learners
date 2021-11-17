@@ -1,4 +1,4 @@
-datasets = ["anatomy", "emotions", "marine", "scto", "ehdaa", "foodon", "LKN", "go"]
+datasets = ["anatomy", "emotions", "marine", "scto", "ehdaa", "foodon", "go"]
 baselines = ["Adamic", "Jaccard", "Preferential", "SNoRe", "node2vec", "Spectral",
              "TransE", "RotatE", "GAT", "GIN", "GCN", "GAE", "metapath2vec"]
 for d in datasets:

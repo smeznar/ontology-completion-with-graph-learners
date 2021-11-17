@@ -29,8 +29,7 @@ methods = {
 }
 
 
-def read_lkn():
-    path = '/home/sebastian/Downloads/LKN_2.txt'
+def read_graph_from_txt(path):
     node_ids = dict()
 
     graph = nx.MultiDiGraph()
@@ -207,15 +206,18 @@ def write_results(roc, ap, time, name, dataset, outdir):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Link prediction benchmark')
-    parser.add_argument('--method', help='Method identifier', required=True, action='store')
-    parser.add_argument('--dataset', help='Name of dataset to be tested.', required=True, action='store')
-    parser.add_argument('--out', help="Output directory for the score.", required=True, action='store')
+    parser.add_argument('--method', help='Method identifier', default="SNoRe", action='store')
+    parser.add_argument('--dataset', help='Name of dataset to be tested.', default="../data/anatomy.json", action='store')
+    parser.add_argument('--out', help="Output directory for the score.", default="../results/_res_.txt", action='store')
+    parser.add_argument('--format', help="Format of the dataset file", default="json", action='store')
     args = parser.parse_args()
 
-    if args.dataset == "../data/LKN.json":
-        mgraph, node_ids, edge_ids = read_lkn()
-    else:
+    if args.format == "json":
         mgraph, node_ids, edge_ids = read_graph_from_json(args.dataset)
+    elif args.format == "txt":
+        mgraph, node_ids, edge_ids = read_graph_from_txt(args.dataset)
+    else:
+        raise Exception("Dataset format not supported")
 
     splits = create_splits(mgraph)
 

@@ -1,6 +1,7 @@
 import numpy as np
 
 
+# Taken from aditya grover's Github repository: https://github.com/aditya-grover/node2vec
 class Graph():
 	def __init__(self, nx_G, is_directed, p, q, seed):
 		self.G = nx_G
