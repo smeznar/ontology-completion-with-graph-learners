@@ -86,15 +86,27 @@ the other methods are).
 ## Recommendations for missing and redundant edges
 
 The overview of our approach for creating recommendations of missing and redundant edges in show in the figure below.
-![link prediction overview](figures/link_recommendation.png)
+![recommendation creation overview](figures/link_recommendation.png)
 
 TBA
 
 ## Temporal approach for evaluating recommendations
 
+The overview of our approach for evaluating recommendation using multiple versions of an ontology can be seen in the image below
+![Temporal approach overview](figures/link_scoring.png)
 TBA
 
 ## Explanation of recommendations
+TBA
+
+### Global explanation
+An example of a global explanation can be seen in the image below
+![Global explanation example](figures/feature_importance_2020.png)
+
+TBA
+### Local explanation
+An example of a local explanation can be seen in the image below
+![local explanation example](figures/local_explanation_2020.png)
 
 TBA
 
