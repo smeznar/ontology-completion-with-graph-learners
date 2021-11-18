@@ -3,4 +3,9 @@ baselines = ["Adamic", "Jaccard", "Preferential", "SNoRe", "node2vec", "Spectral
              "TransE", "RotatE", "GAT", "GIN", "GCN", "GAE", "metapath2vec"]
 for d in datasets:
     for b in baselines:
-        print("python link_prediction.py --method {} --dataset ../data/{}.json --out ../results/{}_{}.txt".format(b, d, d, b))
+        print("python link_prediction.py --method {} --dataset ../data/{}.json --format json --out ../results/{}_{}.txt".format(b, d, d, b))
+
+for b in baselines:
+    print(
+        "python link_prediction.py --method {} --dataset ../data/{}.txt "
+        "--format txt --out ../results/{}_{}.txt".format(b, "LKN", "LKN", b))
