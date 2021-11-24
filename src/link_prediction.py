@@ -131,7 +131,8 @@ def create_splits(graph, cv=5, neg_ratio=1, val=0, seed=18):
     while len(negative_edges) < num_negatives:
         edge = np.random.randint(0, possible_edges)
         i, j = index_to_edge(edge)
-        if graph[i, j] == 0 and graph[j, i] == 0 and edge not in negative_edges and i != j:
+        if graph[i, j] == 0 and graph[j, i] == 0 \
+                and edge not in negative_edges and (j*graph.shape[1] + i) not in negative_edges and i != j:
             negative_edges.add(edge)
 
     negative_edges = [index_to_edge(i) for i in negative_edges]

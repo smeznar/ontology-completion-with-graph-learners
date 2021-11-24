@@ -1,6 +1,6 @@
 # Link Analysis meets Ontologies: Are Embeddings the Answer?
 This repository contains code that is used and presented in the paper **_Link Analysis meets Ontologies: Are 
-Embeddings the Answer?_**, that can be found [here](TBA).
+Embeddings the Answer?_**, that can be found [here](https://arxiv.org/abs/2111.11710).
 
 ## Getting started
 
@@ -8,7 +8,8 @@ To use our code, first download it to your computer. This can be done by running
 ```
 git clone git@github.com:smeznar/anomaly-detection-in-ontologies.git
 ```
-After this you need to setup the environment. If you're using conda, you can use the command
+After this you need to setup the environment. We suggest using python 3.6, as some dependencies are supported only upto
+this version. If you're using conda, you can use the command
 ```
 conda env create -f env.yml
 ```
@@ -45,8 +46,8 @@ The txt file is formated as:
 subject\t object\t predicate 
 ```
 
-Some example ontologies (the ones used in the paper) can be found inside the data directory. If you want to test 
-our approach on your own ontology, you can transform an owl file into a JSON file by TBA.
+Some example ontologies (the ones used in the paper) can be found inside the data directory together with their
+[origin and sources](data/README.md). If you want to test our approach on your own ontology, you can transform an owl file into a JSON file by TBA.
 
 A knowledge graph can also be used with this approach if transformed into a suitable format.
 
@@ -116,8 +117,7 @@ To contribute, simply open an issue or a pull request!
 
 ## Authors
 
-Paper and the corresponding code were created by Sebastian Mežnar, Matej Bevec, Barbara Korošič Seljak, Nada Lavrač,
-and Blaž Škrlj. 
+Paper and the corresponding code were created by Sebastian Mežnar, Matej Bevec, Nada Lavrač, and Blaž Škrlj. 
 
 ## License
 
@@ -128,5 +128,12 @@ See LICENSE.md for more details.
 Please cite as:
 
 ```
-TBA
+@misc{meznar2021link,
+      title={Link Analysis meets Ontologies: Are Embeddings the Answer?}, 
+      author={Sebastian Mežnar and Matej Bevec and Nada Lavrač and Blaž Škrlj},
+      year={2021},
+      eprint={2111.11710},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```

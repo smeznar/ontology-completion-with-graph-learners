@@ -7,7 +7,7 @@
   - Source: [obofoundry](http://www.obofoundry.org/ontology/mfoem.html)
 * Marine:
   - Paper: [Tzitzikas, Y. et al: Integrating Heterogeneous and Distributed Information about Marine Species through a Top Level Ontology](https://link.springer.com/chapter/10.1007%2F978-3-319-03437-9_29)
-  - Source: [FORTH-ICS website](https://projects.ics.forth.gr/isl/ontology/content-MTLO/marinetlo.owl)
+  - Source: [FORTH-ICS website](https://projects.ics.forth.gr/isl/MarineTLO/)
 * Gene:
   - Paper: [Michael Ashburner et al: Gene Ontology: tool for the unification of biology](https://www.nature.com/articles/ng0500_25)
   - Source: [Gene ontology website](http://geneontology.org/docs/download-ontology/)
@@ -26,3 +26,5 @@ quality control and data integration](https://www.nature.com/articles/s41538-018
   - Paper: [Živa Ramsak et al: Network Modeling Unravels Mechanisms of Crosstalk between Ethylene and Salicylate Signaling
 in Potato](https://academic.oup.com/plphys/article/178/1/488/6116708)
   - Source: [TBA]()
+
+**Corresponding licenses apply**
