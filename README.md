@@ -24,11 +24,6 @@ pip install torch==1.10.0+cpu -f https://download.pytorch.org/whl/cpu/torch_stab
 pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
 ```
 
-[comment]: <> (If you're using conda, you can use the command
-```
-conda env create -f env.yml
-```)
-
 Your environment should now be ready, follow instructions in the sections below for more information how to transform 
 ontologies into a graph (and format used throughout all other code), run link prediction, create recommendations for
 missing and redundant edges, and create explanations for the created recommendations.
