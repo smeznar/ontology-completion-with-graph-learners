@@ -8,16 +8,26 @@ To use our code, first download it to your computer. This can be done by running
 ```
 git clone git@github.com:smeznar/anomaly-detection-in-ontologies.git
 ```
-After this you need to setup the environment. We suggest using python 3.6, as some dependencies are supported only upto
-this version. If you're using conda, you can use the command
+After this you need to setup the environment. To run code we suggest using the Docker image provided in this repository.
+You can build the image using the command 
 ```
-conda env create -f env.yml
+sudo docker build -t link-analysis .
 ```
-from the root folder, otherwise the command 
+from the root folder.
+
+The environment can also be set up manually. We suggest using python 3.6, as some dependencies need this version to work
+optimally. Using _pip_, dependencies can be satisfied by running the following commands from the root folder:
+
 ```
 pip install -r requirements.txt
+pip install torch==1.10.0+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
+pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
 ```
-can be used.
+
+[comment]: <> (If you're using conda, you can use the command
+```
+conda env create -f env.yml
+```)
 
 Your environment should now be ready, follow instructions in the sections below for more information how to transform 
 ontologies into a graph (and format used throughout all other code), run link prediction, create recommendations for
@@ -63,12 +73,20 @@ TBA: slika z rezultati
 
 link prediction benchmark (5-fold cross-validation) can be ran by using the command from the src directory:
 ```
-python link_prediction.py --method {method} --dataset {dataset} --format {format} --out {out}
+python link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
 ```
 where _{method}_ is the baseline used, _{dataset}_ is the directory of the dataset, _{format}_ is the format type of the 
-dataset, and _{out}_ is the directory where the results will be stored.
+dataset, and _{out}_ is the directory where the results will be stored. We suggest path ``results/{filname}.txt`` for
+the _{out}_ argument, especially when the docker image is used.
 
-By default the following settings can be used:
+If you are using the docker image, the command should have the following form:
+```
+sudo docker run -v $(pwd):/app --rm link src/link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
+```
+Note that ``-v $(pwd):/app`` in this command makes the folder of the repository (with all the code and data) visible
+to the docker image.
+
+By default, the following settings can be used:
 - **_{method}_**: _Adamic_, _Jaccard_, _Preferential_, _SNoRe_, _node2vec_, _Spectral_, _TransE_, 
 _RotatE_, _GAT_, _GIN_, _GCN_, _GAE_, _metapath2vec_
 - **_{dataset}_**: ../data/{d}.json, where {d} is one of _anatomy_, _emotions_, _marine_, _scto_, _ehdaa_, _foodon_, _go_,
