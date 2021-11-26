@@ -1,104 +1,104 @@
-python link_prediction.py --method Adamic --dataset ../data/LKN.txt --format txt --out ../results/LKN_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/LKN.txt --format txt --out ../results/LKN_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/LKN.txt --format txt --out ../results/LKN_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/LKN.txt --format txt --out ../results/LKN_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/LKN.txt --format txt --out ../results/LKN_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/LKN.txt --format txt --out ../results/LKN_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/LKN.txt --format txt --out ../results/LKN_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/LKN.txt --format txt --out ../results/LKN_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/LKN.txt --format txt --out ../results/LKN_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/LKN.txt --format txt --out ../results/LKN_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/LKN.txt --format txt --out ../results/LKN_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/LKN.txt --format txt --out ../results/LKN_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/LKN.txt --format txt --out ../results/LKN_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/foodon.json --format json --out ../results/foodon_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/foodon.json --format json --out ../results/foodon_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/foodon.json --format json --out ../results/foodon_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/foodon.json --format json --out ../results/foodon_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/foodon.json --format json --out ../results/foodon_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/foodon.json --format json --out ../results/foodon_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/foodon.json --format json --out ../results/foodon_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/foodon.json --format json --out ../results/foodon_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/foodon.json --format json --out ../results/foodon_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/foodon.json --format json --out ../results/foodon_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/foodon.json --format json --out ../results/foodon_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/foodon.json --format json --out ../results/foodon_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/foodon.json --format json --out ../results/foodon_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/go.json --format json --out ../results/go_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/go.json --format json --out ../results/go_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/go.json --format json --out ../results/go_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/go.json --format json --out ../results/go_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/go.json --format json --out ../results/go_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/go.json --format json --out ../results/go_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/go.json --format json --out ../results/go_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/go.json --format json --out ../results/go_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/go.json --format json --out ../results/go_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/go.json --format json --out ../results/go_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/go.json --format json --out ../results/go_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/go.json --format json --out ../results/go_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/go.json --format json --out ../results/go_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/anatomy.json --format json --out ../results/anatomy_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/anatomy.json --format json --out ../results/anatomy_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/anatomy.json --format json --out ../results/anatomy_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/anatomy.json --format json --out ../results/anatomy_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/anatomy.json --format json --out ../results/anatomy_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/anatomy.json --format json --out ../results/anatomy_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/anatomy.json --format json --out ../results/anatomy_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/anatomy.json --format json --out ../results/anatomy_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/anatomy.json --format json --out ../results/anatomy_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/anatomy.json --format json --out ../results/anatomy_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/anatomy.json --format json --out ../results/anatomy_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/anatomy.json --format json --out ../results/anatomy_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/anatomy.json --format json --out ../results/anatomy_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/emotions.json --format json --out ../results/emotions_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/emotions.json --format json --out ../results/emotions_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/emotions.json --format json --out ../results/emotions_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/emotions.json --format json --out ../results/emotions_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/emotions.json --format json --out ../results/emotions_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/emotions.json --format json --out ../results/emotions_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/emotions.json --format json --out ../results/emotions_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/emotions.json --format json --out ../results/emotions_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/emotions.json --format json --out ../results/emotions_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/emotions.json --format json --out ../results/emotions_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/emotions.json --format json --out ../results/emotions_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/emotions.json --format json --out ../results/emotions_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/emotions.json --format json --out ../results/emotions_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/marine.json --format json --out ../results/marine_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/marine.json --format json --out ../results/marine_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/marine.json --format json --out ../results/marine_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/marine.json --format json --out ../results/marine_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/marine.json --format json --out ../results/marine_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/marine.json --format json --out ../results/marine_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/marine.json --format json --out ../results/marine_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/marine.json --format json --out ../results/marine_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/marine.json --format json --out ../results/marine_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/marine.json --format json --out ../results/marine_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/marine.json --format json --out ../results/marine_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/marine.json --format json --out ../results/marine_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/marine.json --format json --out ../results/marine_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/scto.json --format json --out ../results/scto_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/scto.json --format json --out ../results/scto_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/scto.json --format json --out ../results/scto_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/scto.json --format json --out ../results/scto_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/scto.json --format json --out ../results/scto_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/scto.json --format json --out ../results/scto_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/scto.json --format json --out ../results/scto_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/scto.json --format json --out ../results/scto_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/scto.json --format json --out ../results/scto_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/scto.json --format json --out ../results/scto_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/scto.json --format json --out ../results/scto_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/scto.json --format json --out ../results/scto_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/scto.json --format json --out ../results/scto_metapath2vec.txt
-python link_prediction.py --method Adamic --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_Adamic.txt
-python link_prediction.py --method Jaccard --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_Jaccard.txt
-python link_prediction.py --method Preferential --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_Preferential.txt
-python link_prediction.py --method SNoRe --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_SNoRe.txt
-python link_prediction.py --method node2vec --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_node2vec.txt
-python link_prediction.py --method Spectral --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_Spectral.txt
-python link_prediction.py --method TransE --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_TransE.txt
-python link_prediction.py --method RotatE --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_RotatE.txt
-python link_prediction.py --method GAT --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_GAT.txt
-python link_prediction.py --method GIN --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_GIN.txt
-python link_prediction.py --method GCN --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_GCN.txt
-python link_prediction.py --method GAE --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_GAE.txt
-python link_prediction.py --method metapath2vec --dataset ../data/ehdaa.json --format json --out ../results/ehdaa_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/anatomy.json --format json --out results/anatomy_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/anatomy.json --format json --out results/anatomy_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/anatomy.json --format json --out results/anatomy_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/anatomy.json --format json --out results/anatomy_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/anatomy.json --format json --out results/anatomy_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/anatomy.json --format json --out results/anatomy_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/anatomy.json --format json --out results/anatomy_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/anatomy.json --format json --out results/anatomy_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/anatomy.json --format json --out results/anatomy_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/anatomy.json --format json --out results/anatomy_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/anatomy.json --format json --out results/anatomy_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/anatomy.json --format json --out results/anatomy_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/anatomy.json --format json --out results/anatomy_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/emotions.json --format json --out results/emotions_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/emotions.json --format json --out results/emotions_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/emotions.json --format json --out results/emotions_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/emotions.json --format json --out results/emotions_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/emotions.json --format json --out results/emotions_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/emotions.json --format json --out results/emotions_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/emotions.json --format json --out results/emotions_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/emotions.json --format json --out results/emotions_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/emotions.json --format json --out results/emotions_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/emotions.json --format json --out results/emotions_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/emotions.json --format json --out results/emotions_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/emotions.json --format json --out results/emotions_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/emotions.json --format json --out results/emotions_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/marine.json --format json --out results/marine_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/marine.json --format json --out results/marine_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/marine.json --format json --out results/marine_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/marine.json --format json --out results/marine_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/marine.json --format json --out results/marine_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/marine.json --format json --out results/marine_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/marine.json --format json --out results/marine_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/marine.json --format json --out results/marine_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/marine.json --format json --out results/marine_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/marine.json --format json --out results/marine_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/marine.json --format json --out results/marine_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/marine.json --format json --out results/marine_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/marine.json --format json --out results/marine_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/scto.json --format json --out results/scto_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/scto.json --format json --out results/scto_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/scto.json --format json --out results/scto_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/scto.json --format json --out results/scto_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/scto.json --format json --out results/scto_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/scto.json --format json --out results/scto_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/scto.json --format json --out results/scto_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/scto.json --format json --out results/scto_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/scto.json --format json --out results/scto_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/scto.json --format json --out results/scto_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/scto.json --format json --out results/scto_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/scto.json --format json --out results/scto_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/scto.json --format json --out results/scto_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/ehdaa.json --format json --out results/ehdaa_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/ehdaa.json --format json --out results/ehdaa_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/ehdaa.json --format json --out results/ehdaa_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/ehdaa.json --format json --out results/ehdaa_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/ehdaa.json --format json --out results/ehdaa_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/ehdaa.json --format json --out results/ehdaa_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/ehdaa.json --format json --out results/ehdaa_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/ehdaa.json --format json --out results/ehdaa_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/ehdaa.json --format json --out results/ehdaa_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/ehdaa.json --format json --out results/ehdaa_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/ehdaa.json --format json --out results/ehdaa_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/ehdaa.json --format json --out results/ehdaa_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/ehdaa.json --format json --out results/ehdaa_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/foodon.json --format json --out results/foodon_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/foodon.json --format json --out results/foodon_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/foodon.json --format json --out results/foodon_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/foodon.json --format json --out results/foodon_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/foodon.json --format json --out results/foodon_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/foodon.json --format json --out results/foodon_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/foodon.json --format json --out results/foodon_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/foodon.json --format json --out results/foodon_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/foodon.json --format json --out results/foodon_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/foodon.json --format json --out results/foodon_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/foodon.json --format json --out results/foodon_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/foodon.json --format json --out results/foodon_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/foodon.json --format json --out results/foodon_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/go.json --format json --out results/go_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/go.json --format json --out results/go_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/go.json --format json --out results/go_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/go.json --format json --out results/go_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/go.json --format json --out results/go_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/go.json --format json --out results/go_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/go.json --format json --out results/go_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/go.json --format json --out results/go_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/go.json --format json --out results/go_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/go.json --format json --out results/go_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/go.json --format json --out results/go_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/go.json --format json --out results/go_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/go.json --format json --out results/go_metapath2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Adamic --dataset data/LKN.txt --format txt --out results/LKN_Adamic.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Jaccard --dataset data/LKN.txt --format txt --out results/LKN_Jaccard.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Preferential --dataset data/LKN.txt --format txt --out results/LKN_Preferential.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method SNoRe --dataset data/LKN.txt --format txt --out results/LKN_SNoRe.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method node2vec --dataset data/LKN.txt --format txt --out results/LKN_node2vec.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method Spectral --dataset data/LKN.txt --format txt --out results/LKN_Spectral.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method TransE --dataset data/LKN.txt --format txt --out results/LKN_TransE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method RotatE --dataset data/LKN.txt --format txt --out results/LKN_RotatE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAT --dataset data/LKN.txt --format txt --out results/LKN_GAT.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GIN --dataset data/LKN.txt --format txt --out results/LKN_GIN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GCN --dataset data/LKN.txt --format txt --out results/LKN_GCN.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method GAE --dataset data/LKN.txt --format txt --out results/LKN_GAE.txt
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method metapath2vec --dataset data/LKN.txt --format txt --out results/LKN_metapath2vec.txt

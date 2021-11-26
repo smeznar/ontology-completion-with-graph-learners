@@ -12,5 +12,3 @@ RUN pip install --no-cache-dir torch==1.10.0+cpu -f https://download.pytorch.org
 RUN pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
 
 ENTRYPOINT ["python"]
-# docker build -t link .
-# sudo docker run -v $(pwd)/results:/results --rm link src/link_prediction.py --method GAT --dataset ../data/anatomy.json --format json --out /results/aaa.txt

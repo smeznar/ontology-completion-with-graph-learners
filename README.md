@@ -84,7 +84,7 @@ If you are using the docker image, the command should have the following form:
 sudo docker run -v $(pwd):/app --rm link src/link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
 ```
 Note that ``-v $(pwd):/app`` in this command makes the folder of the repository (with all the code and data) visible
-to the docker image.
+to the docker image. Examples of command for docker can be found inside the ``src/benchmark.sh`` file.
 
 By default, the following settings can be used:
 - **_{method}_**: _Adamic_, _Jaccard_, _Preferential_, _SNoRe_, _node2vec_, _Spectral_, _TransE_, 
