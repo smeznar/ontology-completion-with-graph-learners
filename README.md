@@ -134,6 +134,11 @@ An example of a local explanation can be seen in the image below
 
 TBA
 
+## Credits
+
+Code for transforming ontologies to json files was derived from [KRR-Oxford's OWL2Vec-Star repository](https://github.com/KRR-Oxford/OWL2Vec-Star) 
+(version 0.2.0, last accessed: 11/2021).
+
 ## Contributing
 
 To contribute, simply open an issue or a pull request!
