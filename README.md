@@ -112,7 +112,11 @@ the other methods are).
 The overview of our approach for creating recommendations of missing and redundant edges in show in the figure below.
 ![recommendation creation overview](figures/link_recommendation.png)
 
-TBA
+An example of recommendation generation is shown in the ``examples/recommendation_generation.py`` script. The example
+generates top 20 recommendations for missing and redundant edges connected to node http://purl.obolibrary.org/obo/GO_0008150
+in the Gene ontology. The recommendations are generated with SNoRe.
+
+TBA script for generating recommendations automatically
 
 ## Temporal approach for evaluating recommendations
 
