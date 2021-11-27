@@ -51,8 +51,18 @@ The txt file is formated as:
 subject\t object\t predicate 
 ```
 
-Some example ontologies (the ones used in the paper) can be found inside the data directory together with their
-[origin and sources](data/README.md). If you want to test our approach on your own ontology, you can transform an owl file into a JSON file by TBA.
+Some examples of transformed ontologies (the ones used in the paper) can be found inside the data directory together with their
+[origin and sources](data/README.md). If you want to test our approach on your own ontology, you can transform an owl
+file into a JSON file by using the script ``src/conversion.py`` as 
+```
+python src/conversion.py --filename {filename} --out {out}
+```
+or
+```
+sudo docker run -v $(pwd):/app --rm link-analysis src/conversion.py --filename {filename} --out {out}
+```
+if you are using Docker. Argument _{filename}_ is a placeholder for the path to the .owl file, while _{out}_ represents
+the output path where .json file will be stored.
 
 A knowledge graph can also be used with this approach if transformed into a suitable format.
 
@@ -76,7 +86,7 @@ the _{out}_ argument, especially when the docker image is used.
 
 If you are using the docker image, the command should have the following form:
 ```
-sudo docker run -v $(pwd):/app --rm link src/link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
+sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
 ```
 Note that ``-v $(pwd):/app`` in this command makes the folder of the repository (with all the code and data) visible
 to the docker image. Examples of command for docker can be found inside the ``src/benchmark.sh`` file.
@@ -84,7 +94,7 @@ to the docker image. Examples of command for docker can be found inside the ``sr
 By default, the following settings can be used:
 - **_{method}_**: _Adamic_, _Jaccard_, _Preferential_, _SNoRe_, _node2vec_, _Spectral_, _TransE_, 
 _RotatE_, _GAT_, _GIN_, _GCN_, _GAE_, _metapath2vec_
-- **_{dataset}_**: ../data/{d}.json, where {d} is one of _anatomy_, _emotions_, _marine_, _scto_, _ehdaa_, _foodon_, _go_,
+- **_{data set}_**: ../data/{d}.json, where {d} is one of _anatomy_, _emotions_, _marine_, _scto_, _ehdaa_, _foodon_, _go_,
 or ../data/LKN.txt
 - **_{format}_**: _json_ or _txt_, depending on the **_{dataset}_** file
 
