@@ -131,12 +131,13 @@ TBA
 An example of a global explanation can be seen in the image below
 ![Global explanation example](figures/feature_importance_2020.png)
 
-TBA
+A script for creating such explanation can be found in ``src/global_explanation.py``
+
 ### Local explanation
 An example of a local explanation can be seen in the image below
 ![local explanation example](figures/local_explanation_2020.png)
 
-TBA
+A script for creating such explanation can be found in ``src/local_explanation.py``
 
 ## Credits
 

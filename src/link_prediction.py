@@ -32,9 +32,9 @@ methods = {
 def create_splits(graph, cv=5, neg_ratio=1, val=0, seed=18):
     np.random.seed(seed)
 
-    probs = [0 for i in range(len({e[2] for e in mgraph.edges(data="type")}))]
+    probs = [0 for i in range(len({e[2] for e in graph.edges(data="type")}))]
     edge_types = defaultdict(list)
-    for i, j, k in mgraph.edges(data="type"):
+    for i, j, k in graph.edges(data="type"):
         probs[k] += 1
         edge_types[(i, j)].append(k)
     probs = np.array(probs)
@@ -155,7 +155,7 @@ if __name__ == '__main__':
     else:
         raise Exception("Dataset format not supported")
 
-    splits = create_splits(mgraph)
+    splits = create_splits(mgraph.copy())
 
     roc_vals = []
     ap_vals = []
