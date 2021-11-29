@@ -1,19 +1,19 @@
 # Link Analysis meets Ontologies: Are Embeddings the Answer?
-This repository contains code that is used and presented in the paper **_Link Analysis meets Ontologies: Are 
+This repository contains code that is used and presented as part of the paper **_Link Analysis meets Ontologies: Are 
 Embeddings the Answer?_**, that can be found [here](https://arxiv.org/abs/2111.11710).
 
 ## Getting started
 
-To use our code, first download it to your computer. This can be done by running the following command.
+To use the code, first download it to your computer. This can be done by running the following command.
 ```
 git clone git@github.com:smeznar/anomaly-detection-in-ontologies.git
 ```
-After this you need to setup the environment. To run code we suggest using the Docker image provided in this repository.
-You can build the image using the command 
+After this you need to setup the environment. To run the code we suggest using a Docker image provided in this repository.
+You can build the image by using the command 
 ```
 sudo docker build -t link-analysis .
 ```
-from the root folder. Note that the docker version uses CPU-only PyTorch.
+from the `root` folder. Note that the docker version uses CPU-only PyTorch.
 
 The environment can also be set up manually. We suggest using python 3.6, as some dependencies need this version to work
 optimally. Using _pip_, dependencies can be satisfied by running the following commands from the root folder:
@@ -24,13 +24,13 @@ pip install torch==1.10.0+cpu -f https://download.pytorch.org/whl/cpu/torch_stab
 pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.10.0+cpu.html
 ```
 
-Your environment should now be ready, follow instructions in the sections below for more information how to transform 
-ontologies into a graph (and format used throughout all other code), run link prediction, create recommendations for
-missing and redundant edges, and create explanations for the created recommendations.
+Your environment should now be ready, follow the instructions in the sections below for more information regarding the transformation of
+ontologies into a graph (and format used throughout all other parts of the repository), run link prediction, create recommendations for
+missing and redundant edges, and create _explanations_ of the predicted recommendations.
 
 ## Ontology to graph transformation
 
-To use the code in the other sections, we first need to transform the ontology into a graph. Our code can read two
+To use the code in other sections, we first need to transform the ontology into a graph. Our code can read two
 different formats (JSON and txt). The JSON format is structured as:
 ```
 {"graphs": {
@@ -52,7 +52,7 @@ subject\t object\t predicate
 ```
 
 Some examples of transformed ontologies (the ones used in the paper) can be found inside the data directory together with their
-[origin and sources](data/README.md). If you want to test our approach on your own ontology, you can transform an owl
+[origin and sources](data/README.md). If you want to test our approach on your own ontology, you can transform an `.owl`
 file into a JSON file by using the script ``src/conversion.py`` as 
 ```
 python src/conversion.py --filename {filename} --out {out}
@@ -64,7 +64,7 @@ sudo docker run -v $(pwd):/app --rm link-analysis src/conversion.py --filename {
 if you are using Docker. Argument _{filename}_ is a placeholder for the path to the .owl file, while _{out}_ represents
 the output path where .json file will be stored.
 
-A knowledge graph can also be used with this approach if transformed into a suitable format.
+A knowledge graph can also be used with this approach, if transformed into a suitable format.
 
 ## Link prediction
 
@@ -76,20 +76,20 @@ Using this benchmark you should get the following results:
 
 TBA: slika z rezultati
 
-link prediction benchmark (5-fold cross-validation) can be ran by using the command from the src directory:
+link prediction benchmark (5-fold cross-validation) can be run by using the command from the src directory:
 ```
 python link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
 ```
 where _{method}_ is the baseline used, _{dataset}_ is the directory of the dataset, _{format}_ is the format type of the 
 dataset, and _{out}_ is the directory where the results will be stored. We suggest path ``results/{filname}.txt`` for
-the _{out}_ argument, especially when the docker image is used.
+the _{out}_ argument, especially when the Docker image is used.
 
-If you are using the docker image, the command should have the following form:
+If you are using the Docker image, the command should have the following form:
 ```
 sudo docker run -v $(pwd):/app --rm link-analysis src/link_prediction.py --method {method} --dataset {data set} --format {format} --out {out}
 ```
 Note that ``-v $(pwd):/app`` in this command makes the folder of the repository (with all the code and data) visible
-to the docker image. Examples of command for docker can be found inside the ``src/benchmark.sh`` file.
+to the Docker image. Examples of command for Docker can be found inside the ``src/benchmark.sh`` file.
 
 By default, the following settings can be used:
 - **_{method}_**: _Adamic_, _Jaccard_, _Preferential_, _SNoRe_, _node2vec_, _Spectral_, _TransE_, 
@@ -109,18 +109,18 @@ the other methods are).
 
 ## Recommendations for missing and redundant edges
 
-The overview of our approach for creating recommendations of missing and redundant edges in show in the figure below.
+The overview of our approach for creating recommendations of missing and redundant edges is shown in the figure below.
 ![recommendation creation overview](figures/link_recommendation.png)
 
 An example of recommendation generation is shown in the ``examples/recommendation_generation.py`` script. The example
 generates top 20 recommendations for missing and redundant edges connected to node http://purl.obolibrary.org/obo/GO_0008150
-in the Gene ontology. The recommendations are generated with SNoRe.
+in the Gene ontology. The recommendations are generated with `SNoRe`.
 
 TBA script for generating recommendations automatically
 
 ## Temporal approach for evaluating recommendations
 
-The overview of our approach for evaluating recommendation using multiple versions of an ontology can be seen in the image below
+The overview of our approach for evaluating recommendation by using multiple versions of an ontology can be seen in the image below
 ![Temporal approach overview](figures/link_scoring.png)
 TBA
 
