@@ -13,7 +13,7 @@ You can build the image using the command
 ```
 sudo docker build -t link-analysis .
 ```
-from the root folder.
+from the root folder. Note that the docker version uses CPU-only PyTorch.
 
 The environment can also be set up manually. We suggest using python 3.6, as some dependencies need this version to work
 optimally. Using _pip_, dependencies can be satisfied by running the following commands from the root folder:
