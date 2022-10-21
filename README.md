@@ -1,6 +1,5 @@
-# Link Analysis meets Ontologies: Are Embeddings the Answer?
-This repository contains code that is used and presented as part of the paper **_Link Analysis meets Ontologies: Are 
-Embeddings the Answer?_**, that can be found [here](https://arxiv.org/abs/2111.11710).
+# Ontology Completion with Graph-based Machine Learning: A Comprehensive Evaluation
+This repository contains code that is used and presented as part of the paper **_Ontology Completion with Graph-based Machine Learning: A Comprehensive Evaluation_**, that can be found [here](https://arxiv.org/abs/2111.11710).
 
 ## Getting started
 
